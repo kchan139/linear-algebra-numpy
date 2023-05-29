@@ -1,2 +1,2 @@
-# linear-algebra-numpy
-algebra project 222
+# LINEAR ALGEBRA - HK222
+python code
